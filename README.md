@@ -68,7 +68,8 @@ Here is a random GIF as a placeholder.
 
 ![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) -->
 
-!(file:///Users/aurelield/Downloads/PISAscience_time.png)
+<img width="388" alt="PISAscience_time" src="https://user-images.githubusercontent.com/82478538/158059636-253537c3-f01d-4deb-aa33-fa9646cd6f33.png">
+
 
 # Table of contents
 

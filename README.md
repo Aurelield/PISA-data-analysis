@@ -88,7 +88,7 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
     - [Sponsor](#sponsor)
     - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
 - [License](#license)
-- [Footer](#footer)
+- [Trello dashboard](#trello-dashboard)
 
 # Installation
 [(Back to top)](#table-of-contents)
@@ -165,14 +165,14 @@ I personally add the name of the license and provide a link to it like below. --
 
 [GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0)
 
-# Footer
+# Trello dashboard
 [(Back to top)](#table-of-contents)
 
 <!-- Let's also add a footer because I love footers and also you **can** use this to convey important info.
 
 Let's make it an image because by now you have realised that multimedia in images == cool(*please notice the subtle programming joke). -->
 
-Leave a star in GitHub, give a clap in Medium and share this guide if you found this helpful.
+https://trello.com/invite/b/md0QGa8M/868a3d5826626f443765e1df511644f5/pisa-data-analysis
 
 <!-- Add the footer here -->
 

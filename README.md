@@ -70,6 +70,10 @@ Here is a random GIF as a placeholder.
 
 <img width="388" alt="PISAscience_time" src="https://user-images.githubusercontent.com/82478538/158059636-253537c3-f01d-4deb-aa33-fa9646cd6f33.png"> <img width="387" alt="l2S0foHClGkE5jTiEUZQ9mYYPZHvAvrYSOPapQBSoi-AF0M5C6TmRDQrbQ-0xbpcQfWblvdnxJ4DY_New0OsVeoB8dXlenuFSc3amwhlId15ewe-S0G18qSeI2UWbAiZTM6ZsUwLgq2x" src="https://user-images.githubusercontent.com/82478538/158059759-686facba-dba2-4722-87de-7487eef0aa54.png">
 
+# Tools
+
+- Python Langage 
+- Tableau(Public)
 
 # Table of contents
 
@@ -80,6 +84,7 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 - [Project Title](#project-title)
 - [Limits and issues](#limits-and-issues)
 - [Demo-Preview](#demo-preview)
+- [Tools](#tools)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -122,13 +127,21 @@ To use this project, first clone the repo on your device using the command below
 [(Back to top)](#table-of-contents)
 
 The present analysis can lead to social and economic aspects given the PISA rates.
+The aim of the analysis would be to concretely act on economic inequalities between men and women throughout the world.
+Highlighting inequalities can aware people of the women condition in the world of work. 
 
 <!-- This is optional and it is used to give the user info on how to use the project after installation. This could be added in the Installation section also. -->
 
 
 
-### Going further
+# Going further
 [(Back to top)](#table-of-contents)
+
+Three questions have been raised during the data analysis:
+
+- Analysis with other economic variables (GDP): use of linear regressions
+- Datasets from AFD (Agence Française de développement)
+- Analysis with 2022 PISA assessments and datasets about COVID-19
 
 <!-- Your project is gaining traction and it is being used by thousands of people(***with this README there will be even more***). Now it would be a good time to look for people or organisations to sponsor your project. This could be because you are not generating any revenue from your project and you require money for keeping the project alive.
 
@@ -137,8 +150,14 @@ You could add how people can sponsor your project in this section. Add your patr
 A good idea is to also display the sponsors with their organisation logos or badges to show them your love!(*Someday I will get a sponsor and I can show my love*) -->
 
 
-# License
+# Citation
 [(Back to top)](#table-of-contents)
+
+All of cv files come from the website of the OECD.
+
+- OECD (2022), Reading performance (PISA) (indicator). doi: 10.1787/79913c69-en (Accessed on 20 March 2022)
+- OECD (2022), Income inequality (indicator). doi: 10.1787/459aa7f1-en (Accessed on 20 March 2022)
+- OECD (2022), Employment rate (indicator). doi: 10.1787/1de68a9b-en (Accessed on 20 March 2022)
 
 <!-- Adding the license to README is a good practice so that people can easily refer to it.
 
